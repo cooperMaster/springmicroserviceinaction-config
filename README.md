@@ -1,1 +1,2 @@
 # springmicroserviceinaction-config
+Spring 微服务实战一书中的配置，根据自己的需要有修改
