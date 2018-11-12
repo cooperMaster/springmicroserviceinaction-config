@@ -5,7 +5,7 @@ spring:
         password: '{cipher}ac7e20c69aeb008fa289f7d6ce78fbdcef7625ade9d3b278fd4a05f1b282e89e'
         platform: postgres
         testWhileIdle: true
-        url: jdbc:postgresql://database:5432/eagle_eye
+        url: jdbc:postgresql://localhost:5432/eagle_eye
         username: postgres
         validationQuery: SELECT 1
     jpa:
